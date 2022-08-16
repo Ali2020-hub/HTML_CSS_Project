@@ -317,3 +317,12 @@ nav .fa-solid {
         margin-top: 20px;
         font-weight: 600;
     }
+    .icons .fa-brands {
+      color: #f44336;
+      margin: 0 13px;
+      cursor : pointer;
+      padding: 18px 0 ;
+    }
+   p .fa-heart {
+      color: #f44336;
+    }
